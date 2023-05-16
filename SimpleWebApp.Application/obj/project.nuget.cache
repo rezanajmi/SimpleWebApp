@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "90Nv3l4WcmO7wTzwhee20q4HJQMOs0e3289OpaEepoqhqnvxaNPfWeJdmboqozeLHYBDz+J7/xLq6zx9EUvAXg==",
+  "success": true,
+  "projectFilePath": "G:\\Project\\SimpleWebApp\\SimpleWebApp.Application\\SimpleWebApp.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reza\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

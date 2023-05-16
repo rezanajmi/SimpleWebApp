@@ -1,0 +1,15 @@
+G:\Project\SimpleWebApp\SimpleWebApp.Application\obj\Debug\net6.0\SimpleWebApp.Application.csproj.AssemblyReference.cache
+G:\Project\SimpleWebApp\SimpleWebApp.Application\obj\Debug\net6.0\SimpleWebApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\SimpleWebApp\SimpleWebApp.Application\obj\Debug\net6.0\SimpleWebApp.Application.AssemblyInfoInputs.cache
+G:\Project\SimpleWebApp\SimpleWebApp.Application\obj\Debug\net6.0\SimpleWebApp.Application.AssemblyInfo.cs
+G:\Project\SimpleWebApp\SimpleWebApp.Application\obj\Debug\net6.0\SimpleWebApp.Application.csproj.CoreCompileInputs.cache
+G:\Project\SimpleWebApp\SimpleWebApp.Application\bin\Debug\net6.0\SimpleWebApp.Application.deps.json
+G:\Project\SimpleWebApp\SimpleWebApp.Application\bin\Debug\net6.0\SimpleWebApp.Application.dll
+G:\Project\SimpleWebApp\SimpleWebApp.Application\bin\Debug\net6.0\SimpleWebApp.Application.pdb
+G:\Project\SimpleWebApp\SimpleWebApp.Application\bin\Debug\net6.0\SimpleWebApp.Core.dll
+G:\Project\SimpleWebApp\SimpleWebApp.Application\bin\Debug\net6.0\SimpleWebApp.Core.pdb
+G:\Project\SimpleWebApp\SimpleWebApp.Application\obj\Debug\net6.0\SimpleWebApp.Application.csproj.CopyComplete
+G:\Project\SimpleWebApp\SimpleWebApp.Application\obj\Debug\net6.0\SimpleWebApp.Application.dll
+G:\Project\SimpleWebApp\SimpleWebApp.Application\obj\Debug\net6.0\refint\SimpleWebApp.Application.dll
+G:\Project\SimpleWebApp\SimpleWebApp.Application\obj\Debug\net6.0\SimpleWebApp.Application.pdb
+G:\Project\SimpleWebApp\SimpleWebApp.Application\obj\Debug\net6.0\ref\SimpleWebApp.Application.dll

@@ -1,0 +1,27 @@
+﻿@model SimpleWebApp.Core.Entities.Post
+
+@{
+    ViewBag.Title = "Update Post";
+}
+
+<h2>Update Post: @Model.Id</h2>
+
+<div>
+    <form asp-action="update" method="post">
+        <div>
+            <label for="Title">Title:</label>
+            <input type="text" name="Title" id="Title" value="@Model.Title" />
+        </div>
+        <div>
+            <label for="Content">Content:</label>
+            <textarea name="Content">@Model.Content</textarea>
+        </div>
+        <div>
+            <label for="UserId">UserId:</label>
+            <input type="text" name="UserId" id="UserId" value="@Model.UserId" />
+        </div>
+        <div>
+            <button type="submit">Update Post</button>
+        </div>
+    </form>
+</div>

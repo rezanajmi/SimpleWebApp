@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body style="padding: 20px 50px;">
+    <div>
+        <h1>Simple Web App</h1>
+        <hr />
+    </div>
+    <div>
+        @RenderBody()
+    </div>
+    <div>
+        <hr />
+        <a asp-controller="home" asp-action="index">Home</a>
+    </div>
+</body>
+</html>

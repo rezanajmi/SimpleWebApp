@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "Add New Post";
+}
+
+<h2>Add New Post</h2>
+
+<div>
+    <form asp-action="add" method="post">
+        <div>
+            <label for="Title">Title:</label>
+            <input type="text" name="Title" id="Title" />
+        </div>
+        <div>
+            <label for="Content">Content:</label>
+            <textarea name="Content"></textarea>
+        </div>
+        <div>
+            <label for="UserId">UserId:</label>
+            <input type="text" name="UserId" id="UserId" />
+        </div>
+        <div>
+            <button type="submit">Add Post</button>
+        </div>
+    </form>
+</div>

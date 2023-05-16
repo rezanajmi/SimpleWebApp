@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "M9MMMkB2bboENBqgaGYFi13/7ZEU73U6FYEoG6AThzI=",
+  "Source": "SimpleWebApp.Web",
+  "BasePath": "_content/SimpleWebApp.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

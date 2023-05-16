@@ -1,0 +1,33 @@
+﻿@model IEnumerable<SimpleWebApp.Core.Entities.User>
+
+@{
+    ViewBag.Title = "User Management";
+}
+
+<h2>User Management</h2>
+<a asp-action="add">Add New User</a>
+<div>
+    <table>
+        <thead>
+            <td>Id</td>
+            <td>Username</td>
+            <td>Fullname</td>
+            <td>Options</td>
+        </thead>
+        <tbody>
+            @foreach(var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Username</td>
+                    <td><span>@item.Name @item.Family</span></td>
+                    <td>
+                        <a asp-action="Update" asp-route-id="@item.Id">Update</a>
+                        <label> | </label>
+                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
